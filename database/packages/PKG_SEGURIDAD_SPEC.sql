@@ -1,0 +1,1 @@
+Definición de paquete PKG_SEGURIDAD vacía (sin miembros públicos).
